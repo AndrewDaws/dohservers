@@ -1,0 +1,9 @@
+version: "1"
+rules:
+  - base: master
+    upstream: oneoffdallas:master
+    mergeMethod: merge
+    mergeUnstable: true
+    conflictReviewers:
+      - AndrewDaws
+label: ":arrow_heading_down: pull"
