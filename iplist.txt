@@ -7,19 +7,19 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 # 
 # Added: 14 Oct 2019
-# Last modified: 14 Apr 2020
+# Last modified: 13 Nov 2020
 
 # Optionally include Cloudflare's main addresses (Google and Quad9 included below)
-# 1.1.1.1
-# 1.0.0.1
+1.1.1.1
+1.0.0.1
 #
 # security.cloudflare-dns.com - see IPs further down this list
-# 1.1.1.2
-# 1.0.0.2
+1.1.1.2
+1.0.0.2
 #
 # family.cloudflare-dns.com
-# 1.1.1.3
-# 1.0.0.3
+1.1.1.3
+1.0.0.3
 
 # dns.cloudflare.com
 # (optional because cdnjs.cloudflare.com uses the same IPs)
