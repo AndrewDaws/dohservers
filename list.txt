@@ -214,3 +214,6 @@
 #
 0.0.0.0 doh.xfinity.com
 0.0.0.0 doh.gslb2.xfinity.com
+#
+0.0.0.0 fdns1.dismail.de
+0.0.0.0 fdns2.dismail.de

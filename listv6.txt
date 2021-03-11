@@ -214,3 +214,6 @@
 #
 :: doh.xfinity.com
 :: doh.gslb2.xfinity.com
+#
+:: fdns1.dismail.de
+:: fdns2.dismail.de
