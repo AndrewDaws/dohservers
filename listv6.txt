@@ -218,3 +218,16 @@
 #
 :: fdns1.dismail.de
 :: fdns2.dismail.de
+#
+:: anycast.censurfridns.dk
+:: deic-lgb.anycast.censurfridns.dk
+:: deic-ore.anycast.censurfridns.dk
+:: kracon.anycast.censurfridns.dk
+:: rgnet-iad.anycast.censurfridns.dk
+:: unicast.censurfridns.dk
+:: anycast.uncensoreddns.org
+:: deic-lgb.anycast.uncensoreddns.org
+:: deic-ore.anycast.uncensoreddns.org
+:: kracon.anycast.uncensoreddns.org
+:: rgnet-iad.anycast.uncensoreddns.org
+:: unicast.uncensoreddns.org

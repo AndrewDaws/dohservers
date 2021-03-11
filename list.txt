@@ -218,3 +218,16 @@
 #
 0.0.0.0 fdns1.dismail.de
 0.0.0.0 fdns2.dismail.de
+#
+0.0.0.0 anycast.censurfridns.dk
+0.0.0.0 deic-lgb.anycast.censurfridns.dk
+0.0.0.0 deic-ore.anycast.censurfridns.dk
+0.0.0.0 kracon.anycast.censurfridns.dk
+0.0.0.0 rgnet-iad.anycast.censurfridns.dk
+0.0.0.0 unicast.censurfridns.dk
+0.0.0.0 anycast.uncensoreddns.org
+0.0.0.0 deic-lgb.anycast.uncensoreddns.org
+0.0.0.0 deic-ore.anycast.uncensoreddns.org
+0.0.0.0 kracon.anycast.uncensoreddns.org
+0.0.0.0 rgnet-iad.anycast.uncensoreddns.org
+0.0.0.0 unicast.uncensoreddns.org
