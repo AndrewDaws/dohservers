@@ -232,6 +232,7 @@
 
 # doh.applied-privacy.net
 93.177.65.183
+146.255.56.98
 
 # dnsforge.de
 176.9.93.198

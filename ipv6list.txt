@@ -26,6 +26,7 @@
 
 # doh.appliedprivacy.net:
 2a00:63c1:a:229::2
+2a02:1b8:10:234::2
 
 # *.blahdns.com:
 2a05:9406::175

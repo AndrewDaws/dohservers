@@ -42,6 +42,7 @@
 0.0.0.0 dns.alidns.com
 0.0.0.0 doh.appliedprivacy.net
 0.0.0.0 doh.applied-privacy.net
+0.0.0.0 dot1.applied-privacy.net
 0.0.0.0 doh.armadillodns.net
 0.0.0.0 dohtrial.att.net
 #
