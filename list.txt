@@ -1,4 +1,4 @@
-# DNS over HTTPS (DoH) server list 
+# DNS over HTTPS (DoH) server list
 # Servers are in order by the domain name, then subdomain name to help maintain sanity as the list grows.
 # You *must* re-direct all standard DNS outbound (UDP 53) to an internal server. This ensures the bootstrap address is your DNS server.
 # While you're at it, you should also block all DNS over TLS outbound (TCP 853).
@@ -6,9 +6,9 @@
 # Twitter: @oneoffdallas
 # Homepage: https://github.com/oneoffdallas/dohservers
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
-# 
+#
 # Added: 18 Feb 2019
-# Last modified: 28 Dec 2020
+# Last modified: 11 Mar 2021
 #
 0.0.0.0 doh.42l.fr
 #
@@ -49,8 +49,9 @@
 0.0.0.0 doh1.b-cdn.net
 0.0.0.0 doh2.blahdns.com
 0.0.0.0 doh2.b-cdn.net
-0.0.0.0 doh-de.blahdns.com
+0.0.0.0 dot-ch.blahdns.com
 0.0.0.0 doh-fi.blahdns.com
+0.0.0.0 doh-de.blahdns.com
 0.0.0.0 doh-jp.blahdns.com
 0.0.0.0 doh-sg.blahdns.com
 0.0.0.0 doh.blockerdns.com

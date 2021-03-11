@@ -49,8 +49,9 @@
 :: doh1.b-cdn.net
 :: doh2.blahdns.com
 :: doh2.b-cdn.net
-:: doh-de.blahdns.com
+:: dot-ch.blahdns.com
 :: doh-fi.blahdns.com
+:: doh-de.blahdns.com
 :: doh-jp.blahdns.com
 :: doh-sg.blahdns.com
 :: doh.blockerdns.com
