@@ -106,6 +106,10 @@
 :: doh.dnslify.com
 :: a.ns.dnslify.com
 :: b.ns.dnslify.com
+:: a.safe.ns.dnslify.com
+:: b.safe.ns.dnslify.com
+:: a.family.ns.dnslify.com
+:: b.family.ns.dnslify.com
 :: dns.dnsoverhttps.net
 :: dns.dns-over-https.com
 :: dns.dnsoverhttps.net

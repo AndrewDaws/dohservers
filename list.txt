@@ -106,6 +106,10 @@
 0.0.0.0 doh.dnslify.com
 0.0.0.0 a.ns.dnslify.com
 0.0.0.0 b.ns.dnslify.com
+0.0.0.0 a.safe.ns.dnslify.com
+0.0.0.0 b.safe.ns.dnslify.com
+0.0.0.0 a.family.ns.dnslify.com
+0.0.0.0 b.family.ns.dnslify.com
 0.0.0.0 dns.dnsoverhttps.net
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 dns.dnsoverhttps.net
