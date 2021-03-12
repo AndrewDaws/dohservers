@@ -7,7 +7,7 @@
 # Homepage: https://github.com/oneoffdallas/dohservers
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 #
-# Added: 20 Jan 2020
+# Added: 18 Feb 2019
 # Last modified: 11 Mar 2021
 #
 :: doh.42l.fr
@@ -102,7 +102,6 @@
 :: doh.dns.sb
 :: public-dns-a.dns.sb
 :: public-dns-b.dns.sb
-:: dns.dnshome.de
 :: doh.dnslify.com
 :: a.ns.dnslify.com
 :: b.ns.dnslify.com
@@ -112,7 +111,6 @@
 :: b.family.ns.dnslify.com
 :: dns.dnsoverhttps.net
 :: dns.dns-over-https.com
-:: dns.dnsoverhttps.net
 :: adblock-dot.dnswarden.com
 :: adult-filter-dot.dnswarden.com
 :: doh.dnswarden.com
