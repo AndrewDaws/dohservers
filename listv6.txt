@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 #
 # Added: 18 Feb 2019
-# Last modified: 11 Mar 2021
+# Last modified: 12 Mar 2021
 #
 :: doh.42l.fr
 #
