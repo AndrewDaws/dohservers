@@ -76,6 +76,7 @@
 0.0.0.0 family.cloudflare-dns.com
 0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 security.cloudflare-dns.com
+0.0.0.0 cloudflare-gateway.com
 0.0.0.0 dns.cmrg.net
 0.0.0.0 commons.host
 0.0.0.0 dns.containerpi.com
