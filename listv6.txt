@@ -72,6 +72,7 @@
 :: security-filter-dns.cleanbrowsing.org
 :: dns.cloudflare.com
 :: cloudflare-dns.com
+:: 1dot1dot1dot1.cloudflare-dns.com
 :: dns64.cloudflare-dns.com
 :: family.cloudflare-dns.com
 :: mozilla.cloudflare-dns.com
